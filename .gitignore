@@ -5,6 +5,9 @@ __pycache__/
 
 # C extensions
 *.so
+*.mp3
+songs/
+demo.py
 
 # Distribution / packaging
 .Python
